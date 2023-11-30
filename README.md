@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarinaTheAnalyst
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning SQL.
-- 💞️ I’m looking to collaborate on any new project regarding SQL.
+- 💞️ I’m looking to collaborate on any new projects regarding SQL.
 - 📫 The best way to reach me via email.
 
 <!---
